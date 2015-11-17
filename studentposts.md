@@ -1,5 +1,5 @@
 ---
-title: Recent Student Posts
+title: Student Posts
 layout: page
 ---
 

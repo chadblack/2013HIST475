@@ -1,5 +1,7 @@
-title: Making a better blog
-extends: norm.html  
+---
+layout: page
+---
+
 
 ### Overview
 

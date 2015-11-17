@@ -1,5 +1,5 @@
 ---
-title: first blog self assessment
+layout: page
 ---
 
 

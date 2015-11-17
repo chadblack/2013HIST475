@@ -1,5 +1,4 @@
 ---
-title: second blog self assessment
 layout: page
 ---
 
