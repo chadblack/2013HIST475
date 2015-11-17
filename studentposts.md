@@ -1,6 +1,7 @@
-extends: norm.html
+---
 title: Recent Student Posts
-date: 2014-10-15
+layout: page
+---
 
 
 ### rewritinghistory

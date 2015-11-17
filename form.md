@@ -1,5 +1,6 @@
 ---
 title: Blog Info  
+layout: page
 ---
 
 

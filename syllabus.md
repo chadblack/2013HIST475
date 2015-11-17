@@ -1,5 +1,6 @@
 ---
 title: Syllabus
+layout: page
 ---
 
 **Dr. Chad Black**  

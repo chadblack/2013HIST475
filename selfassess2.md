@@ -1,5 +1,7 @@
+---
 title: second blog self assessment
-extends: norm.html
+layout: page
+---
 
 Consider the posts you wrote for the second half of the semester. I would like you to grade each of your posts on a 1-4 scale, 4 being the best. For guidance refer to this [rubric](/rubric). Your self assessment will inform my own assessment of your posts, together with your first self-assessment. (Keep in mind that I will look more kindly upon an honest assessment.) 
 

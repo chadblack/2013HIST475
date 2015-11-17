@@ -1,5 +1,7 @@
+---
 title: Blog Rubric  
-extends: norm.html
+layout: page
+---
 
 Blog Rating        | Rating Description
 ------------       | -------------------

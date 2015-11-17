@@ -1,5 +1,6 @@
 ---
 title: Assignments
+layout: page
 ---
 
 *  **Blog posts.** The lion's share of your writing for this class will be done on your own blog.
