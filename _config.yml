@@ -10,7 +10,7 @@ title: History of Indigenous People in Latin America
 description: > # this means to ignore newlines until "baseurl:"
        Spring 2013, University of Tennesse. Course on the History of Indigenous
        People in Latin America. It was good class, you should've enrolled.
-baseurl: "2013HIST475" # the subpath of your site, e.g. /blog
+baseurl: "/2013HIST475" # the subpath of your site, e.g. /blog
 url: "http://chadblack.github.io" # the base hostname & protocol for your site
 twitter_username: parezcoydigo
 github_username: chadblack
